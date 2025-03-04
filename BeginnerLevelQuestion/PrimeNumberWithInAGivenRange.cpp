@@ -26,6 +26,5 @@ int main()
     
     for(int i = number1; i <= number2; i++)
         if(isPrime(i))
-            cout << i << " ";
-
+            cout << i << " " ;
 }
